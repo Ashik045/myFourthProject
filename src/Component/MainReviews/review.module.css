@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+.rImg {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  margin-top: -25px;
+  margin-left: -10px;
+  border: 4px solid #f50057;
+}
+
+.rcard {
+  border-radius: 10px;
+  box-shadow: -10px 10px 2px grey;
+}
+
+.rname {
+  font-weight: bold;
+  font-family: "Lobster", cursive;
+}

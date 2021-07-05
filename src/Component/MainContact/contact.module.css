@@ -1,0 +1,22 @@
+.cSection {
+  background-image: url(../Image/bgtwo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  overflow: hidden;
+  height: 500px;
+}
+.conSec {
+  height: 400px;
+}
+
+.contact {
+  background-image: url(../Image/cbg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}

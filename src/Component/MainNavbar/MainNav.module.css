@@ -1,0 +1,10 @@
+.navActive {
+  font-size: 2rem;
+  color: red;
+}
+
+.navLogo {
+  height: 40px;
+  width: 70px;
+  fill: red !important;
+}

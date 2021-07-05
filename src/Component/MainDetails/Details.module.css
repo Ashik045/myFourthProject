@@ -1,0 +1,62 @@
+.detailHeader {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.dHaeder {
+  background-image: url(../Image/detailbg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 300px;
+  width: 100%;
+  opacity: 0.6;
+  position: relative;
+  background-color: yellow !important;
+  z-index: 2;
+}
+
+.detailimg {
+  position: absolute;
+  height: 300px;
+  width: 350px;
+}
+
+.dSubsec {
+  background-color: yellow;
+  z-index: 1;
+}
+
+.textwhite {
+  color: rgb(243, 23, 23);
+  font-weight: bold;
+  opacity: 1;
+}
+
+.subdetail {
+  margin-top: -150px;
+}
+
+.dimage {
+  width: 100%;
+  height: auto;
+  border-bottom-right-radius: 14%;
+  border-bottom-left-radius: 14%;
+  border-top-left-radius: 7%;
+  border-top-right-radius: 7%;
+}
+
+.cards {
+  max-width: 250px;
+  height: auto;
+  z-index: 3;
+  border-radius: 7%;
+}
+
+@media screen and (max-width: 550px) {
+  .cards {
+    max-width: 90%;
+    height: auto;
+    margin-left: 10px;
+  }
+}

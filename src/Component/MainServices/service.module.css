@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,300;1,600&family=Crete+Round:ital@1&display=swap");
+
+.shead {
+  font-family: "Cormorant", serif;
+  font-weight: 900;
+  font-size: 40px;
+}
+
+.subservices {
+  background-color: #ddced6;
+}
